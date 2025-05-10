@@ -7585,7 +7585,6 @@ body.search.search-results .blog-content-standar .post-content {
   color: white;
   border-bottom: none;
   z-index: 2;
-  margin-top: 100px;
 }
 
 @media (max-width: 1199px) {
@@ -7597,7 +7596,7 @@ body.search.search-results .blog-content-standar .post-content {
 #bwp-footer a:active,
 #bwp-footer a:focus,
 #bwp-footer a:hover {
-  color: var(--hover-color-80, rgba(0, 0, 0, 0.8));
+  color: white;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
